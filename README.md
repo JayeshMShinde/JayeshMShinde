@@ -85,7 +85,8 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
   <img src="https://komarev.com/ghpvc/?username=JayeshMShinde&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
 </p>
 
----
+## 🐍 Contribution Graph
+![Snake animation](https://raw.githubusercontent.com/JayeshMShinde/JayeshMShinde/output/snake.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
