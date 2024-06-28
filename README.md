@@ -125,3 +125,5 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 </p>
 
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rqd5kvcmi4tehxizh3ufoosf3e)
+
