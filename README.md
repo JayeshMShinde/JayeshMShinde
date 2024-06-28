@@ -18,7 +18,7 @@
 
 I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. My journey in the world of programming has equipped me with the skills to create robust, scalable, and user-friendly applications.
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="Coding" width="300" style="z-index: 1;" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently working on <a href="">Ecommerce Website</a>
 - <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30"> I'm currently learning AWS, Tanstack Router, Nextjs
