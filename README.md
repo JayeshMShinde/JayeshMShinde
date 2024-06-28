@@ -7,10 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JayeshMShinde&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
-</p>
-
 ## 👨‍💻 About Me
 
 I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. My journey in the world of programming has equipped me with the skills to create robust, scalable, and user-friendly applications.
