@@ -60,7 +60,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayeshMShinde&theme=nord&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JayeshMShinde&theme=nord&column=6" />
 </p>
 
 ## 🔥 Recent GitHub Activity
