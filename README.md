@@ -10,26 +10,26 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Always+learning+new+things;💻+Passionate+about+coding;🌟+Creating+innovative+solutions&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. My journey in the world of programming has equipped me with the skills to create robust, scalable, and user-friendly applications.
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
-- 🔭 I'm currently working on <a href="">Ecommerce Website</a>
-- 🌱 I'm currently learning AWS, Tanstack Router, Nextjs
-- 💬 Ask me about React, Java, Spring Boot, or any tech-related stuff
-- 📫 How to reach me: [Jayesh4178@gmail.com](mailto:Jayesh4178@gmail.com)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Always+learning+new+things;💻+Passionate+about+coding;🌟+Creating+innovative+solutions&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently working on <a href="">Ecommerce Website</a>
+- <img src="https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width="30"> I'm currently learning AWS, Tanstack Router, Nextjs
+- <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="30"> Ask me about React, Java, Spring Boot, or any tech-related stuff
+- <img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width="30"> How to reach me: [Jayesh4178@gmail.com](mailto:Jayesh4178@gmail.com)
 
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
 
-<p>
+<p align="center">
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -39,7 +39,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ### 🧰 Frameworks and Libraries
 
-<p>
+<p align="center">
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
@@ -48,11 +48,15 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ### 🗄️ Databases and Cloud Hosting
 
-<p>
+<p align="center">
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="300">
 </p>
 
 ## 📊 Github Stats
@@ -71,7 +75,9 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ## 🔥 Recent GitHub Activity
 
-[![Jayesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayeshMShinde&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayeshMShinde&theme=react-dark" alt="Jayesh's github activity graph" />
+</p>
 
 ## 💻 Tech Stack
 
@@ -103,16 +109,11 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JayeshMShinde/JayeshMShinde/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/JayeshMShinde/JayeshMShinde/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<!-- New animated footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 <p align="center">
