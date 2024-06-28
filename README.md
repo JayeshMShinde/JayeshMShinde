@@ -44,6 +44,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
