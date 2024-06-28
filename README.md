@@ -110,7 +110,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRxczZubnNzbGd3ZjJqOTBqN21kNjUxdzJmcms4MWd6cWhpaG5peCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMNTpz8txJ6tmkTp7Q/giphy.webp" alt="Animated Footer" width="100%">
 </p>
 
 <p align="center">
