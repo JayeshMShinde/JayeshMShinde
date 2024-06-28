@@ -15,11 +15,10 @@
 
 I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. My journey in the world of programming has equipped me with the skills to create robust, scalable, and user-friendly applications.
 
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [Technology/Framework you're learning]
+- 🔭 I'm currently working on <a href="">Ecommerce Website</a>
+- 🌱 I'm currently learning AWS, Tanstack Router,Nextjs
 - 💬 Ask me about React, Java, Spring Boot, or any tech-related stuff
 - 📫 How to reach me: [Jayesh4178@gmail.com](mailto:Jayesh4178@gmail.com)
-- ⚡ Fun fact: [Your fun fact]
 
 ## 🛠️ My Favorite Tools
 
@@ -85,23 +84,6 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JayeshMShinde&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
 </p>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/JayeshMShinde/Repository1" title="Repository1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshMShinde&repo=Repository1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/JayeshMShinde/Repository2" title="Repository2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshMShinde&repo=Repository2&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/JayeshMShinde/Repository3" title="Repository3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshMShinde&repo=Repository3&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/JayeshMShinde/Repository4" title="Repository4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JayeshMShinde&repo=Repository4&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/JayeshMShinde?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
 ---
 
