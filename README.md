@@ -1,18 +1,23 @@
 <h1 align="center">
-  Welcome to Jayesh Shinde's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+profile!;I'm+Jayesh+Shinde;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
 </h1>
 
+<h3 align="center">A passionate developer from India 🇮🇳</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400">
 </p>
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 I'm a passionate Full Stack Developer with a strong foundation in both frontend and backend technologies. My journey in the world of programming has equipped me with the skills to create robust, scalable, and user-friendly applications.
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+
 - 🔭 I'm currently working on <a href="">Ecommerce Website</a>
-- 🌱 I'm currently learning AWS, Tanstack Router,Nextjs
+- 🌱 I'm currently learning AWS, Tanstack Router, Nextjs
 - 💬 Ask me about React, Java, Spring Boot, or any tech-related stuff
 - 📫 How to reach me: [Jayesh4178@gmail.com](mailto:Jayesh4178@gmail.com)
 
@@ -49,32 +54,39 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 ## 📊 Github Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayeshMShinde&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshMShinde&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JayeshMShinde&show_icons=true&theme=tokyonight" alt="JayeshMShinde's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshMShinde&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayeshMShinde&theme=tokyonight" alt="JayeshMShinde's GitHub streak"/>
 </p>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayeshMShinde&theme=nord&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JayeshMShinde&theme=tokyonight&column=6&row=1" alt="JayeshMShinde's GitHub trophies" />
 </p>
 
 ## 🔥 Recent GitHub Activity
 
+[![Jayesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JayeshMShinde&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 💻 Tech Stack
+
 <p align="center">
-  <a href="https://github.com/JayeshMShinde"><img alt="Jayesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=JayeshMShinde&custom_title=Jayesh%20Shinde's%20Contribution%20Graph&theme=react-dark" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,java,spring,python,html,css,bootstrap,mysql,postgres,git,github" />
 </p>
 
-## 🙋‍♂️ Let's Connect
+## 🌐 Connect with me 
 
 <p align="center">
-  <a href="mailto:Jayesh4178@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/jayesh-mahendra-shinde/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/_jayeshshinde_?igsh=MWgyMzg1bGloZzc3Zw=="><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+  <a href="mailto:Jayesh4178@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jayesh-mahendra-shinde/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_jayeshshinde_?igsh=MWgyMzg1bGloZzc3Zw==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 <p align="center">
@@ -82,8 +94,10 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 </p>
 
 ## 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/JayeshMShinde/JayeshMShinde/output/snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JayeshMShinde/JayeshMShinde/output/snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
