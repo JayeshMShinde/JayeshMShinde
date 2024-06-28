@@ -21,6 +21,10 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 - 💬 Ask me about React, Java, Spring Boot, or any tech-related stuff
 - 📫 How to reach me: [Jayesh4178@gmail.com](mailto:Jayesh4178@gmail.com)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Always+learning+new+things;💻+Passionate+about+coding;🌟+Creating+innovative+solutions&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
@@ -75,6 +79,10 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,java,spring,python,html,css,bootstrap,mysql,postgres,git,github" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+improving+my+tech+stack;Learning+new+technologies+every+day&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 ## 🌐 Connect with me 
 
 <p align="center">
@@ -100,4 +108,13 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<!-- New animated footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;See+you+next+time!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
