@@ -82,7 +82,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+improving+my+tech+stack;Learning+new+technologies+every+day&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+improving+my+tech+stack&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 ## 🌐 Connect with me 
