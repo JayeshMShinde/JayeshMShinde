@@ -116,6 +116,15 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </details>
 
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
+</br>
+<a href="https://open.spotify.com/user/31rqd5kvcmi4tehxizh3ufoosf3e"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31rqd5kvcmi4tehxizh3ufoosf3e"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31rqd5kvcmi4tehxizh3ufoosf3e&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;See+you+next+time!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
