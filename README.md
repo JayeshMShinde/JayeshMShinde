@@ -109,6 +109,13 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
   <img src="https://raw.githubusercontent.com/JayeshMShinde/JayeshMShinde/output/snake.svg" alt="Snake animation" />
 </p>
 
+### 😂 Joke of the day
+
+<details>
+  <summary>See joke</summary>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+</details>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;See+you+next+time!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
