@@ -55,10 +55,6 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="300">
-</p>
-
 ## 📊 Github Stats
 
 <p align="center">
