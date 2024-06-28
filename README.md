@@ -29,7 +29,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ### 👨‍💻 Programming Languages
 
-<p align="center">
+<p align="start">
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -39,7 +39,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ### 🧰 Frameworks and Libraries
 
-<p align="center">
+<p align="start">
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"></a>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white"></a>
@@ -48,7 +48,7 @@ I'm a passionate Full Stack Developer with a strong foundation in both frontend 
 
 ### 🗄️ Databases and Cloud Hosting
 
-<p align="center">
+<p align="start">
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
