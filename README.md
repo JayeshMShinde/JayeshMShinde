@@ -105,13 +105,6 @@ const jayesh = {
 🔗 **[Live Demo](https://dnyaneshwari.vercel.app)** | 📂 **[Source Code](https://github.com/JayeshMShinde/dnyaneshwari)**
 
 ---
-
-### 🏢 **Customer Relationship Management System**
-*A comprehensive CRM solution for managing customer interactions and data*
-
-**Tech Stack:** React, Spring Boot, MySQL, RESTful APIs  
-🔗 **[Live Demo - Coming Soon]** | 📂 **[Source Code](https://github.com/JayeshMShinde/crms)**
-
 </div>
 
 > 💡 **Want to collaborate?** Check out my [repositories](https://github.com/JayeshMShinde?tab=repositories) for more projects!
