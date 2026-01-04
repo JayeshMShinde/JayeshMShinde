@@ -221,7 +221,7 @@ UI/UX Design             ██████████████████�
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year |
 |-----------|---------------|--------|
-| **B.E. in Computer Engineering** | VPKBIET, Baramati | 2022-2026 |
+| **B.E. in Computer Engineering** | Sandip University | 2019-2022 |
 
 ### 📜 Certifications & Achievements
 - 🏆 Full Stack Development Bootcamp
